@@ -6,11 +6,10 @@ Video Link:
 
 Screen Shots of Codes: 
 
-![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/85492e7e-1999-44d7-9d9d-136f59d24479)
+![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/dc47efec-fd9a-448e-98fa-35681704b600)
 
-![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/0cc95875-73ff-496a-a7cd-e646ba4abb70)
+![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/b67e2152-08fa-4cd8-ad20-67c741b1add1)
 
-![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/d16d7b19-b28e-4c39-b91b-8527e1a32c54)
+![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/1192acba-72e9-4217-86fd-6e66b4f13af6)
 
-![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/b39e21bd-252f-4003-9a57-c7657bacba5c)
-
+![image](https://github.com/Kalyansai6/Neural-Network---Assignment-I/assets/123040832/e8717de0-a004-4244-b59f-c5d20f5139d5)
