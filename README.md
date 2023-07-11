@@ -1,4 +1,4 @@
-# Neural-Network---Assignment-I
+# Neural Network---Assignment-I
 
 Name: Badeti Parameswara, Manikanta Venkata Kondasai Kalyan // Student ID: 700747817
 
